@@ -4,12 +4,18 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     
+    
 }
 button{
     cursor: pointer;
 }
 
-
+h2{
+    font-size: 2rem;
+}
+p{
+   font-size:.8rem;
+ }
 
 html{
     font-size: 72.5;
